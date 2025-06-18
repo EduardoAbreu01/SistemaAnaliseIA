@@ -1,0 +1,5 @@
+O código C foi feito no o Arduino IDE
+
+é nescessário estar conectado à uma rede Wifi para enviar as mensagens (mqtt)
+
+Para rodar o código .py é nescessário a biblioteca pahoo: pip install paho-mqtt
