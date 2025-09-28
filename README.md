@@ -14,7 +14,7 @@ O sistema recebe uma URL de imagem, verifica se o painel precisa de limpeza, cla
   - Teste de conexão (`/challenge/`)
   - Listar análises realizadas (`/challenge/analises`)
   - Buscar análises por data (`/challenge/analises/data/{YYYY-MM-DD}`)
-  - Buscar análise por id (`/challenge/analises/data/{id}`)
+  - Buscar análise por id (`/challenge/analises/{id}`)
   - Realizar nova análise (`/challenge/analisar`)
 
 ---
